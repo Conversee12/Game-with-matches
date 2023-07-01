@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Game-with-matches/static/css/main.101365c3.css",
+    "main.js": "/Game-with-matches/static/js/main.43b71d03.js",
+    "static/js/787.b9f06c76.chunk.js": "/Game-with-matches/static/js/787.b9f06c76.chunk.js",
+    "index.html": "/Game-with-matches/index.html",
+    "main.101365c3.css.map": "/Game-with-matches/static/css/main.101365c3.css.map",
+    "main.43b71d03.js.map": "/Game-with-matches/static/js/main.43b71d03.js.map",
+    "787.b9f06c76.chunk.js.map": "/Game-with-matches/static/js/787.b9f06c76.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.101365c3.css",
+    "static/js/main.43b71d03.js"
+  ]
+}
