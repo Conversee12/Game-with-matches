@@ -1,0 +1,21 @@
+.full-screen {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.match-button {
+  margin: 5px;
+  padding: 10px 20px;
+  font-size: 18px;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: #fff;
+}
+
+.match-button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
